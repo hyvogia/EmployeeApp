@@ -1,4 +1,4 @@
-# ThymeLeafDemo
+# EmployeeManager - Thymeleaf
 
 Spring Boot MVC employee management app with Thymeleaf SSR & MySQL
 
