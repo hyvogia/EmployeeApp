@@ -15,5 +15,5 @@ ALTER USER 'root'@'localhost' IDENTIFIED BY 'Root@1234';
 
 ## Visuals
 
-<img src="img/screencapture-localhost-8080.png">
-<img src="img/screencapture-localhost-8080-addnew.png">
+<img src="img/screencapture.png">
+<img src="img/screencapture-addnew.png">
